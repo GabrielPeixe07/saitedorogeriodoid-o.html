@@ -1,20 +1,20 @@
 body
 {
-  back ground-color:bisque;
+  background-color:bisque;
 font-family: Bai Janjuree;
 }
-Footer
+footer
 {
-  back ground-color: black;
+  background-color: black;
   color: white;
   position: fixed;
   botton:0;
   width: 100%;
-  heigher: 2 ten;
+  heigher: 2 ren;
 }
   footer P
 {
   text-aling:center;
-  font-size:0,6mm;
-  margin-tap:0,5mm;
+  font-size:0,6 rem;
+  margin-tap:0,5 rem ;
 }
